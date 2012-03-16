@@ -20,6 +20,7 @@ public class GLREmapActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         tv = new TextView(this);
+        // test comment here
         
         try
         {
